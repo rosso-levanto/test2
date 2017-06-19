@@ -141,14 +141,14 @@
             "bgVideoRadio": false,
             "overlay": true,
             "overlayOpacity": "0.4",
-            "overlayColor": "#000",
+            "overlayColor": "#000000",
             "contentAlign": "center",
             "showTitle": true,
             "showText": true,
             "showButtons": true
           },
           "title": "САЙТ ПРО САНТЕХНИКУ",
-          "text": "Тру-ла-ла, тру-ла-ла,&nbsp;тру-ла-ла, тру-ла-ла, тру-ла-ла, тру-ла-ла, тру-ла-ла, тру-ла-ла, тру-ла-ла, тру-ла-ла, тру-ла-ла, тру-ла-ла, тру-ла-ла, тру-ла-ла, тру-ла-ла, тру-ла-ла, тру-ла-ла, тру-ла-ла, тру-ла-ла, тру-ла-ла, тру-ла-ла, тру-ла-ла, тру-ла-ла, тру-ла-ла, тру-ла-ла, &nbsp;",
+          "text": "Да здравствует мыло душистое,<br>И полотенце пушистое,<br>И зубной порошок,<br>И густой гребешок!<br>Давайте же мыться, плескаться,<br>Купаться, нырять, кувыркаться<br>В ушате, в корыте, в лохани,<br>В реке, в ручейке, в океане, -<br>И в ванне, и в бане,<br>Всегда и везде —<br>Вечная слава воде!, &nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Нажмите, чтобы</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Нажмите не чтобы<br></a>"
         },
         {
