@@ -163,6 +163,58 @@
           }
         },
         {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-7",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "2",
+            "bgColor": "#fff"
+          },
+          "text": "<p><b>Смеси́тель</b> — сантехнический прибор, позволяющий регулировать поток воды и получать воду требуемой температуры при смешивании горячей и холодной воды. Помимо этого (основного) назначения, смесители для ванной комнаты способны направлять поток воды к изливу или душевой лейке. Чаще всего смесители изготавливают из латуни, поверх которой наносится декоративное гальваническое покрытие.</p>"
+        },
+        {
+          "_inherit": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#ffffff",
+              "font-size": "48px"
+            },
+            ".mbr-section-lead": {
+              "color": "#000000"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header5",
+          "_anchor": "header5-5",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/ba02d013be2f59ad213dc7c256f55ed5-big-2000x1689.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "left",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "ЛУЧШИЕ В МИРЕ СМЕСИТЕЛИ",
+          "text": "ОНИ МСЕШИВАЮТ ХОЛОДНУЮ И ГОРЯЧУЮ <br>ВОДУ ЛУЧШЕ ЛЮБЫХ ДРУГИХ!",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">узнать подробнее</a>"
+        },
+        {
           "_styles": {
             ".mbr-section__container .mbr-section-title": {
               "color": "#fff"
@@ -383,58 +435,6 @@
             "overlayColor": "#444444"
           },
           "text": "Copyright (c) 2016 Mobirise."
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-7",
-          "_params": {
-            "paddingTop": "3",
-            "paddingBottom": "2",
-            "bgColor": "#fff"
-          },
-          "text": "<p><b>Смеси́тель</b> — сантехнический прибор, позволяющий регулировать поток воды и получать воду требуемой температуры при смешивании горячей и холодной воды. Помимо этого (основного) назначения, смесители для ванной комнаты способны направлять поток воды к изливу или душевой лейке. Чаще всего смесители изготавливают из латуни, поверх которой наносится декоративное гальваническое покрытие.</p>"
-        },
-        {
-          "_inherit": "header1",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#ffffff",
-              "font-size": "48px"
-            },
-            ".mbr-section-lead": {
-              "color": "#000000"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header5",
-          "_anchor": "header5-5",
-          "_params": {
-            "parallax": true,
-            "bgImageRadio": true,
-            "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/ba02d013be2f59ad213dc7c256f55ed5-big-2000x1689.jpg",
-            "bgColor": "#efefef",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#000",
-            "contentAlign": "left",
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true
-          },
-          "title": "ЛУЧШИЕ В МИРЕ СМЕСИТЕЛИ",
-          "text": "ОНИ МСЕШИВАЮТ ХОЛОДНУЮ И ГОРЯЧУЮ <br>ВОДУ ЛУЧШЕ ЛЮБЫХ ДРУГИХ!",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">узнать подробнее</a>"
         }
       ]
     }
