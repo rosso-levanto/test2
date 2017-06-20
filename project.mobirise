@@ -195,7 +195,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/ba02d013be2f59ad213dc7c256f55ed5-big-2000x1689.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/maxresdefault-2000x1125.jpg",
             "bgColor": "#efefef",
             "bgColorRadio": false,
             "bgVideo": {
@@ -203,7 +203,7 @@
             },
             "bgVideoRadio": false,
             "overlay": false,
-            "overlayOpacity": 0.5,
+            "overlayOpacity": "0.2",
             "overlayColor": "#000",
             "contentAlign": "left",
             "showTitle": true,
